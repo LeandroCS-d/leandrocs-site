@@ -1,0 +1,29 @@
+#EXTM3U x-tvg-url=""
+#EXTINF: -1 
+http://streaming.omegasistemas.com.br:8407/stream.mp3
+#EXTINF: -1
+http://server02.ouvir.radio.br:8040/stream
+#EXTINF: -1 
+https://radio.vaticannews.va/stream-pt-b?Radio-Vaticano
+#EXTINF: -1 
+https://cloud1.cdnseguro.com:20038/stream
+#EXTINF: -1 
+http://centova.onradio.biz:8071/stream
+#EXTINF: -1 
+https://aparecida.jmvstream.com/stream
+#EXTINF: -1 
+http://192.99.188.208:4393/live
+#EXTINF: -1 
+http://streaming05.hstbr.net:8260/live
+#EXTINF: -1 
+https://hts05.kshost.com.br:9456/;
+#EXTINF: -1 
+https://servidor14-3.brlogic.com:7282/live?source=website
+#EXTINF: -1 
+http://hts03.kshost.com.br:9144/stream
+#EXTINF: -1 
+https://shout87.crossradio.com.br:18000/stream
+#EXTINF: -1 
+https://stm01.virtualcast.com.br:8138/live
+#EXTINF: -1 
+https://shout25.crossradio.com.br:18378/stream
